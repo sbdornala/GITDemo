@@ -21,6 +21,8 @@ public class RegistrationTest extends browserInitialization {
 	{
 		driver=InitializeBrowser();
 
+		System.out.println("This is for GIT Testing");
+		
 		driver.get(prop.getProperty("url"));
 		AcadamyHomePage ah=new AcadamyHomePage(driver);
 		ah.register().click();

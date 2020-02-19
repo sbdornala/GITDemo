@@ -31,6 +31,7 @@ AcadamyHomePage a;
 	public void Homepagelinkscount() throws IOException 
 	{
 			driver.get(prop.getProperty("url"));
+			System.out.println("This is for GIT Testing");
 			
 			// AcadamyHomePage object is defined globally above so i can use it through out this class browserInitialization. if i define the AcadamyHomePage 
 			//below this will be applicable for this class (Homepagelinkscount) only as this is public of this class

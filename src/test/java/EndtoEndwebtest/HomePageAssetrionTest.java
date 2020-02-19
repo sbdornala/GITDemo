@@ -35,6 +35,7 @@ public class HomePageAssetrionTest extends browserInitialization{
 	log.info("HomePageAssetrionTest - new message");
 		
 		log.info("Url entered sucessfully");
+		System.out.println("This is for GIT Testing");
 		
 
 		

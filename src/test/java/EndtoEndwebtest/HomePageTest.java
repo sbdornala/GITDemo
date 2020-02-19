@@ -30,7 +30,7 @@ public class HomePageTest extends browserInitialization{
 	public void QaclickHomepage(String Username,String Password) throws IOException 
 	{
 	
-
+		System.out.println("This is for GIT Testing");
 		driver.get(prop.getProperty("url"));
 		log.info("Home page displayed");
 		
