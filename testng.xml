@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<!--   if we include parallel = test then all the test cases will be run in parallel i.e all the test cases will run together. NOTE: if we wan to run all the test
+//cases parallel then we should not declare the driver static in the browser initilization -->
+<!--  <suite name="Suite" parallel="tests">-->
+
+<suite name="Suite">
+<listeners>
+
+<listener class-name="EndtoEndwebtest.Listeners"></listener>
+<listener class-name="resources.ExtentReporterNG"></listener>
+
+
+</listeners>
+  		<test thread-count="5" name="Registration">
+    		<classes>
+                   <class name="EndtoEndwebtest.RegistrationTest"/>
+                   
+                   
+             </classes>
+        </test>
+    
+    
+    <test thread-count="5" name="Homepagelinks">
+    		<classes>
+                   <class name="EndtoEndwebtest.HomepagelinksTest"/>
+                
+                   
+             </classes>
+        </test>
+        
+        
+    
+    <test thread-count="5" name="HomePage">
+    <classes>               
+      				<class name="EndtoEndwebtest.HomePageTest"/>
+      				                        </classes>
+      </test>
+       <test thread-count="5" name="HomePageAssetrion">
+    <classes> 
+         			<class name="EndtoEndwebtest.HomePageAssetrionTest"/>
+    </classes>
+    
+   
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

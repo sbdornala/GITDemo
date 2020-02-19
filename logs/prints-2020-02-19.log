@@ -1,0 +1,53 @@
+10:32:32.618 [TestNG-tests-1] INFO  EndtoEndwebtest.RegistrationTest - Chulday
+10:32:32.633 [TestNG-tests-1] INFO  EndtoEndwebtest.RegistrationTest - Name,Username,Password,Confirm password entered sucessfully
+10:32:33.129 [TestNG-tests-1] INFO  EndtoEndwebtest.RegistrationTest - Browser closed sucessfully
+10:32:34.418 [TestNG-tests-3] INFO  EndtoEndwebtest.HomePageTest - Home page displayed
+10:32:34.419 [TestNG-tests-3] INFO  EndtoEndwebtest.HomePageTest - Message displayed-
+10:32:38.285 [TestNG-tests-3] INFO  EndtoEndwebtest.HomePageTest - Login page displayed
+10:32:38.557 [TestNG-tests-3] INFO  EndtoEndwebtest.HomePageTest - Username and password entered
+10:32:40.883 [TestNG-tests-3] INFO  EndtoEndwebtest.HomePageTest - Submit button clicked
+10:32:51.946 [TestNG-tests-1] INFO  EndtoEndwebtest.RegistrationTest - Registration page linked clicked
+10:33:01.155 [TestNG-tests-1] INFO  EndtoEndwebtest.RegistrationTest - Kilbill Panday
+10:33:01.346 [TestNG-tests-1] INFO  EndtoEndwebtest.RegistrationTest - Kilbill@Panday.com
+10:33:01.462 [TestNG-tests-1] INFO  EndtoEndwebtest.RegistrationTest - Kilbill
+10:33:01.570 [TestNG-tests-1] INFO  EndtoEndwebtest.RegistrationTest - Kilbill
+10:33:01.570 [TestNG-tests-1] INFO  EndtoEndwebtest.RegistrationTest - Name,Username,Password,Confirm password entered sucessfully
+10:33:01.975 [TestNG-tests-1] INFO  EndtoEndwebtest.RegistrationTest - Browser closed sucessfully
+09:37:00.739 [TestNG-tests-4] INFO  EndtoEndwebtest.HomePageAssetrionTest - HomePageAssetrionTest - new message
+09:37:00.742 [TestNG-tests-3] INFO  EndtoEndwebtest.HomePageTest - Home page displayed
+09:37:00.756 [TestNG-tests-4] INFO  EndtoEndwebtest.HomePageAssetrionTest - Url entered sucessfully
+09:37:00.756 [TestNG-tests-3] INFO  EndtoEndwebtest.HomePageTest - Message displayed-
+09:37:05.760 [TestNG-tests-1] INFO  EndtoEndwebtest.RegistrationTest - Registration page linked clicked
+09:37:10.976 [TestNG-tests-3] INFO  EndtoEndwebtest.HomePageTest - Login page displayed
+09:37:11.875 [TestNG-tests-3] INFO  EndtoEndwebtest.HomePageTest - Username and password entered
+09:37:11.959 [TestNG-tests-4] INFO  EndtoEndwebtest.HomePageAssetrionTest - Homepage displayed
+09:37:12.348 [TestNG-tests-4] INFO  EndtoEndwebtest.HomePageAssetrionTest - test@tt.com
+09:37:12.537 [TestNG-tests-4] INFO  EndtoEndwebtest.HomePageAssetrionTest - testyyy
+09:37:16.247 [TestNG-tests-1] INFO  EndtoEndwebtest.RegistrationTest - Chulbul Panday
+09:37:16.660 [TestNG-tests-1] INFO  EndtoEndwebtest.RegistrationTest - Chulbul@Panday.com
+09:37:16.858 [TestNG-tests-1] INFO  EndtoEndwebtest.RegistrationTest - Chulday
+09:37:17.098 [TestNG-tests-1] INFO  EndtoEndwebtest.RegistrationTest - Chulday
+09:37:17.099 [TestNG-tests-1] INFO  EndtoEndwebtest.RegistrationTest - Name,Username,Password,Confirm password entered sucessfully
+09:37:17.686 [TestNG-tests-1] INFO  EndtoEndwebtest.RegistrationTest - Browser closed sucessfully
+09:37:17.750 [TestNG-tests-3] INFO  EndtoEndwebtest.HomePageTest - Submit button clicked
+09:37:19.600 [TestNG-tests-4] INFO  EndtoEndwebtest.HomePageAssetrionTest - User credentials entered and submited sucesssfylly
+09:37:19.703 [TestNG-tests-4] INFO  EndtoEndwebtest.HomePageAssetrionTest - Validation message validated
+09:37:20.380 [TestNG-tests-3] INFO  EndtoEndwebtest.HomePageTest - Home page displayed
+09:37:20.381 [TestNG-tests-3] INFO  EndtoEndwebtest.HomePageTest - Message displayed-
+09:37:27.544 [TestNG-tests-3] INFO  EndtoEndwebtest.HomePageTest - Login page displayed
+09:37:27.981 [TestNG-tests-3] INFO  EndtoEndwebtest.HomePageTest - Username and password entered
+09:37:29.945 [TestNG-tests-3] INFO  EndtoEndwebtest.HomePageTest - Submit button clicked
+09:37:36.572 [TestNG-tests-1] INFO  EndtoEndwebtest.RegistrationTest - Registration page linked clicked
+09:37:45.451 [TestNG-tests-1] INFO  EndtoEndwebtest.RegistrationTest - Kilbill Panday
+09:37:45.628 [TestNG-tests-1] INFO  EndtoEndwebtest.RegistrationTest - Kilbill@Panday.com
+09:37:45.741 [TestNG-tests-1] INFO  EndtoEndwebtest.RegistrationTest - Kilbill
+09:37:45.843 [TestNG-tests-1] INFO  EndtoEndwebtest.RegistrationTest - Kilbill
+09:37:45.843 [TestNG-tests-1] INFO  EndtoEndwebtest.RegistrationTest - Name,Username,Password,Confirm password entered sucessfully
+09:37:46.191 [TestNG-tests-1] INFO  EndtoEndwebtest.RegistrationTest - Browser closed sucessfully
+09:51:05.288 [TestNG-tests-4] INFO  EndtoEndwebtest.HomePageAssetrionTest - HomePageAssetrionTest - new message
+09:51:05.496 [TestNG-tests-4] INFO  EndtoEndwebtest.HomePageAssetrionTest - Url entered sucessfully
+09:51:07.525 [TestNG-tests-3] INFO  EndtoEndwebtest.HomePageTest - Home page displayed
+09:51:07.526 [TestNG-tests-3] INFO  EndtoEndwebtest.HomePageTest - Message displayed-
+09:51:11.361 [TestNG-tests-1] INFO  EndtoEndwebtest.RegistrationTest - Registration page linked clicked
+09:51:14.706 [TestNG-tests-4] INFO  EndtoEndwebtest.HomePageAssetrionTest - Homepage displayed
+09:51:14.906 [TestNG-tests-4] INFO  EndtoEndwebtest.HomePageAssetrionTest - test@tt.com

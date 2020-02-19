@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="WARN">
+       <Properties>
+       
+        <!-- name is the path where the log files will be displayed -->
+<Property name="basePath">./logs</Property>
+</Properties>
+   <Appenders>
+   
+    <!-- file name = path of the file name  file pattern if multiple files need to be creaed then the next file will be created with time stamp -->
+      <RollingFile name="File" fileName="${basePath}/prints.log" filePattern="${basePath}/prints-%d{yyyy-MM-dd}.log">
+     <PatternLayout pattern="%d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n"/>
+     
+      <!-- max size of each file -->
+      <SizeBasedTriggeringPolicy size="5000" />
+          </RollingFile>
+    <Console name="Console" target="SYSTEM_OUT">
+      <PatternLayout pattern="%d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n"/>
+    </Console>
+  </Appenders>
+  <Loggers>
+  
+    <Root level="trace">
+    
+    <!-- will print the results in console -->
+      <AppenderRef ref="File"/>
+    </Root>
+  </Loggers>
+</Configuration>

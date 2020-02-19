@@ -1,0 +1,59 @@
+18:00:50.131 [main] INFO  EndtoEndwebtest.HomePageAssetrionTest - Url entered sucessfully
+18:00:56.867 [main] INFO  EndtoEndwebtest.HomePageAssetrionTest - Homepage displayed
+18:00:57.059 [main] INFO  EndtoEndwebtest.HomePageAssetrionTest - test@tt.com
+18:00:57.196 [main] INFO  EndtoEndwebtest.HomePageAssetrionTest - testyyy
+18:01:01.735 [main] INFO  EndtoEndwebtest.HomePageAssetrionTest - User credentials entered and submited sucesssfylly
+18:01:01.814 [main] INFO  EndtoEndwebtest.HomePageAssetrionTest - Validation message validated
+18:06:12.443 [main] INFO  EndtoEndwebtest.RegistrationTest - Registration page linked clicked
+18:06:22.476 [main] INFO  EndtoEndwebtest.RegistrationTest - Chulbul Panday
+18:06:22.679 [main] INFO  EndtoEndwebtest.RegistrationTest - Chulbul@Panday.com
+18:06:22.815 [main] INFO  EndtoEndwebtest.RegistrationTest - Chulday
+18:06:22.948 [main] INFO  EndtoEndwebtest.RegistrationTest - Chulday
+18:06:22.948 [main] INFO  EndtoEndwebtest.RegistrationTest - Name,Username,Password,Confirm password entered sucessfully
+18:06:23.353 [main] INFO  EndtoEndwebtest.RegistrationTest - Browser closed sucessfully
+18:06:41.425 [main] INFO  EndtoEndwebtest.RegistrationTest - Registration page linked clicked
+18:06:51.316 [main] INFO  EndtoEndwebtest.RegistrationTest - Kilbill Panday
+18:06:51.502 [main] INFO  EndtoEndwebtest.RegistrationTest - Kilbill@Panday.com
+18:06:51.614 [main] INFO  EndtoEndwebtest.RegistrationTest - Kilbill
+18:06:51.722 [main] INFO  EndtoEndwebtest.RegistrationTest - Kilbill
+18:06:51.722 [main] INFO  EndtoEndwebtest.RegistrationTest - Name,Username,Password,Confirm password entered sucessfully
+18:06:52.009 [main] INFO  EndtoEndwebtest.RegistrationTest - Browser closed sucessfully
+18:07:10.324 [main] INFO  EndtoEndwebtest.HomePageTest - Home page displayed
+18:07:10.325 [main] INFO  EndtoEndwebtest.HomePageTest - Message displayed-
+18:07:16.484 [main] INFO  EndtoEndwebtest.HomePageTest - Login page displayed
+18:07:16.798 [main] INFO  EndtoEndwebtest.HomePageTest - Username and password entered
+18:07:21.459 [main] INFO  EndtoEndwebtest.HomePageTest - Submit button clicked
+18:07:23.021 [main] INFO  EndtoEndwebtest.HomePageTest - Home page displayed
+18:07:23.021 [main] INFO  EndtoEndwebtest.HomePageTest - Message displayed-
+18:07:26.881 [main] INFO  EndtoEndwebtest.HomePageTest - Login page displayed
+18:07:27.247 [main] INFO  EndtoEndwebtest.HomePageTest - Username and password entered
+18:07:31.037 [main] INFO  EndtoEndwebtest.HomePageTest - Submit button clicked
+18:07:47.985 [main] INFO  EndtoEndwebtest.HomePageAssetrionTest - HomePageAssetrionTest - new message
+18:07:47.985 [main] INFO  EndtoEndwebtest.HomePageAssetrionTest - Url entered sucessfully
+18:07:55.274 [main] INFO  EndtoEndwebtest.HomePageAssetrionTest - Homepage displayed
+18:07:55.440 [main] INFO  EndtoEndwebtest.HomePageAssetrionTest - test@tt.com
+18:07:55.560 [main] INFO  EndtoEndwebtest.HomePageAssetrionTest - testyyy
+18:07:59.158 [main] INFO  EndtoEndwebtest.HomePageAssetrionTest - User credentials entered and submited sucesssfylly
+18:07:59.209 [main] INFO  EndtoEndwebtest.HomePageAssetrionTest - Validation message validated
+18:12:48.589 [main] INFO  EndtoEndwebtest.RegistrationTest - Registration page linked clicked
+18:12:58.361 [main] INFO  EndtoEndwebtest.RegistrationTest - Chulbul Panday
+18:12:58.548 [main] INFO  EndtoEndwebtest.RegistrationTest - Chulbul@Panday.com
+18:12:58.660 [main] INFO  EndtoEndwebtest.RegistrationTest - Chulday
+18:12:58.763 [main] INFO  EndtoEndwebtest.RegistrationTest - Chulday
+18:12:58.763 [main] INFO  EndtoEndwebtest.RegistrationTest - Name,Username,Password,Confirm password entered sucessfully
+18:12:59.086 [main] INFO  EndtoEndwebtest.RegistrationTest - Browser closed sucessfully
+18:13:07.876 [main] INFO  EndtoEndwebtest.RegistrationTest - Registration page linked clicked
+18:13:17.069 [main] INFO  EndtoEndwebtest.RegistrationTest - Kilbill Panday
+18:13:17.258 [main] INFO  EndtoEndwebtest.RegistrationTest - Kilbill@Panday.com
+18:13:17.366 [main] INFO  EndtoEndwebtest.RegistrationTest - Kilbill
+18:13:17.483 [main] INFO  EndtoEndwebtest.RegistrationTest - Kilbill
+18:13:17.483 [main] INFO  EndtoEndwebtest.RegistrationTest - Name,Username,Password,Confirm password entered sucessfully
+18:13:17.756 [main] INFO  EndtoEndwebtest.RegistrationTest - Browser closed sucessfully
+18:13:41.925 [main] INFO  EndtoEndwebtest.HomePageTest - Home page displayed
+18:13:41.926 [main] INFO  EndtoEndwebtest.HomePageTest - Message displayed-
+18:13:48.947 [main] INFO  EndtoEndwebtest.HomePageTest - Login page displayed
+18:13:49.220 [main] INFO  EndtoEndwebtest.HomePageTest - Username and password entered
+18:13:52.145 [main] INFO  EndtoEndwebtest.HomePageTest - Submit button clicked
+18:13:53.705 [main] INFO  EndtoEndwebtest.HomePageTest - Home page displayed
+18:13:53.705 [main] INFO  EndtoEndwebtest.HomePageTest - Message displayed-
+18:14:00.780 [main] INFO  EndtoEndwebtest.HomePageTest - Login page displayed

@@ -1,0 +1,7 @@
+EndtoEndwebtest\App.class
+resources\browserInitialization.class
+pageObjects\AcadamyHomePage.class
+pageObjects\RegistrationPage.class
+resources\ExtentReporterNG.class
+pageObjects\LoginPage.class
+pageObjects\HomepageAfterLogin.class
